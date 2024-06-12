@@ -6,22 +6,30 @@ This project aims to be a Plant Care Simulator, basically you want to take care 
 
 ## Plant management:
 
--Add plants with name, species, age, health status\n
+-Add plants with name, species, age, health status
+
 -Remove plants
--Manage growth, water and sunloght needs\n
--Add special tasks for specific plants\n
+
+-Manage growth, water and sunloght needs
+
+-Add special tasks for specific plants
+
 -View all plants with their features
 
 ## Task management:
 
--Mark Tasks as completed\n
--Calculate next due day for different tasks\n
--Modify the frequency\n
+-Mark Tasks as completed
+
+-Calculate next due day for different tasks
+
+-Modify the frequency
 
 ## User management
 
--Different users\n
--Add and remove users\n
+-Different users
+
+-Add and remove users
+
 -Get notifications on emergency situations and due tasks
 
 ## Test 
